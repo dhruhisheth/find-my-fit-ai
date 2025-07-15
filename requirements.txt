@@ -5,3 +5,6 @@ elevenlabs
 requests
 Pillow
 SpeechRecognition
+gtts
+pydub
+ffmpeg
