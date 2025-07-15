@@ -13,8 +13,8 @@ def text_to_speech_with_gtts_old(input_text, output_filepath):
 
     audioobj.save(output_filepath)
 
-input_text="Hi, This is FindMyFit AI"
-text_to_speech_with_gtts_old(input_text, output_filepath="fmf.mp3")
+#input_text="Hi, This is FindMyFit AI"
+#text_to_speech_with_gtts_old(input_text, output_filepath="fmf.mp3")
 
 
 # Setup Text to Speech-TTS-model with ElevenLabs
