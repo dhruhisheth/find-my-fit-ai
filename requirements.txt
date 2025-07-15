@@ -1,0 +1,6 @@
+gradio
+groq
+openai
+elevenlabs
+requests
+Pillow
