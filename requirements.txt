@@ -4,3 +4,4 @@ openai
 elevenlabs
 requests
 Pillow
+SpeechRecognition
