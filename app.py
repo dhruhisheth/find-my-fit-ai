@@ -75,4 +75,4 @@ gradio_interface = gr.Interface(
 )
 
 
-gradio_interface.launch(debug=True)
+gradio_interface.launch(server_name="0.0.0.0", server_port=8080)
