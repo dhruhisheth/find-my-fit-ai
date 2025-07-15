@@ -63,7 +63,7 @@ def process_inputs(audio_filepath, image_filepath):
 gradio_interface = gr.Interface(
   fn=process_inputs,
   inputs=[
-    gr.Audio(sources="microphone", type="filepath"),
+    gr.Audio(source="microphone", type="filepath"),
     gr.Image(type="filepath"),
   ],
   outputs=[
